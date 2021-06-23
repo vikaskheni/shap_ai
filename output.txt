@@ -1,0 +1,26 @@
+info 1:-
+
+-------------------------------------------------------------
+Weather Stats for - BOMBAY  || 23 Jun 2021 | 02:34:16 PM
+-------------------------------------------------------------
+Current temperature is: 31.99 deg C
+Current weather desc  haze:
+Current Humidity      : 70%
+Current wind speed    :5.66kmph
+
+
+
+
+info 1:-
+
+-------------------------------------------------------------
+Weather Stats for - GOA  || 23 Jun 2021 | 02:34:36 PM
+-------------------------------------------------------------
+Current temperature is: 29.22 deg C
+Current weather desc  overcast clouds:
+Current Humidity      : 68%
+Current wind speed    :3.99kmph
+
+
+
+
